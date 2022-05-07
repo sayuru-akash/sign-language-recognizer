@@ -1,0 +1,9 @@
+requirements
+
+> wheel = 0.37.1
+> flask = 2.1.2
+> flask-cors = 3.0.10
+> matplotlib = 3.5.2
+> numpy = 1.22.3
+> opencv-python-headless = 4.5.5.64
+> tensorflow==2.8.0
